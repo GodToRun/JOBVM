@@ -1,0 +1,16 @@
+* SETUP.EXC
+* Command Executable
+* D-DOS Setup file
+setreg sa "==============="
+cpureq 1
+setreg sa "D-DOS Setup"
+cpureq 1
+setreg sa "D-DOS is copying files..."
+cpureq 1
+* Create new file
+new PRINT.EXC
+write PRINT.EXC "cpureq 1"
+setreg sa "Setup Ended"
+cpureq 1
+setreg sa "Recommend restart the computer."
+cpureq 1
