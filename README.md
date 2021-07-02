@@ -33,4 +33,4 @@ public class SimpleOS extends OSLoader {
 //End of Kernel
 
 then run, you can see a window created and screen in text 'This is my a Simple OS!'.
-if you want more, see example/Kernel.java. (example of Disk Operating System. )
+if you want more, see jobvm/example/Kernel.java. (example of Disk Operating System. )
