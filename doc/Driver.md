@@ -1,9 +1,13 @@
-# Virtual Driver
-JOBVM also support virtual driver.
-# Driver list
+# Virtual Driver / Hardware
+JOBVM also support virtual driver and hardware.
+
+# Hardwares
 
 CPU<br>
 Memory<br>
+
+# Driver list
+
 Graphic Card<br>
 Sound Card(WIP)<br>
 VMDriver(WIP)<br>
