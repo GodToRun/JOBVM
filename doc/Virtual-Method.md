@@ -12,3 +12,16 @@ this method pop stack pointer.
 <br><br>
 free(int location)<br>
 this method free memory on parameter address.
+# VIRTUAL POINTER
+in c:<br>
+int *p = 12345;<br>
+printf("%d", *p);<br>
+in jobvm:<br>
+Pointer p = Pointer.ref(12345);<br>
+graphic.Println(p.getValue() + "");
+<br><br>
+in c:<br>
+int i = 1;<br>
+int *p = &i;<br>
+in jobvm:<br>
+Pointer p = Pointer.ref(createByte((byte)1));
