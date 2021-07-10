@@ -1,6 +1,6 @@
 # JOBVM
 Java Object-Based Virtual Machine
-Beta Build #1
+Beta Build #2
 # LICENSE
 GPL 3.0
 See 'LICENSE'.
